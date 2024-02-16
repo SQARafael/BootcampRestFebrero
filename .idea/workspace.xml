@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf495c73-d912-4144-b25c-9b6af1766671" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/constants/Contants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/models/pet/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/models/pet/PostPetModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/models/pet/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/questions/pet/BuildPetQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/questions/pet/ResponsePetQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/tasks/pet/CreatePet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/petStore/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/petStore/stepDefinitions/CreatePetStepDef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/createPet.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/models/order/OrderModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/questions/order/BuildOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/petStore/tasks/order/CreateOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/petStore/stepDefinitions/CreateOrderSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/createOrder.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/petStore/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/petStore/runners/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

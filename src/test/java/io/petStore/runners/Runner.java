@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features/",
         glue = "io.petStore.stepDefinitions",
-        tags = "@PostPet",
+        tags = "@PostOrder",
         snippets = CucumberOptions.SnippetType.CAMELCASE
 )
 public class Runner {
